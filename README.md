@@ -1,7 +1,8 @@
 # ExceptionsJava
 Curso de Java Alura Excessões - RuntimeExceptions vs Exceptions 
 
-![ExceptionsJava drawio](https://github.com/IgorAntonio22/exceptionsJava/assets/98776749/6bf0262b-4a91-49a6-bf5b-ec2402c7a2e1)
+![ExceptionsJava drawio](https://github.com/IgorAntonio22/ExceptionsJava/assets/98776749/40f3d26a-9411-4a7e-87cc-073f6d5cbfde)
+
 
 
 
